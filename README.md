@@ -1,6 +1,6 @@
 # Projeto de Estudo - Bob Esponja
 
-Este projeto tem foi feito com a proposta de fixar os conteúdos de HTML/CSS que estão sendo estudados.
+Este projeto tem foi feito com a proposta de fixar os conteúdos de HTML/CSS com design responsivo que estão sendo estudados
 
 ## Home
 ![](https://i.imgur.com/BQiP0tP.png)
